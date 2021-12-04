@@ -1,0 +1,16 @@
+
+
+.eight-m-btn:hover{
+    color: rgb(54, 54, 51);
+    background: #e0e033 ;
+    box-shadow: 0 0 10px #10b85b, 0 0 80px #2196f3, 0 0 10px #69b4f1;
+    font-size: 40px;
+    overflow: hidden;
+    transition: 0.4s;
+    border-radius: 20px;
+}
+.m-btn{
+    background: rgb(56, 171, 216);
+    border-radius: 10px;
+    font-style:oblique;
+}
